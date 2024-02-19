@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔨 My stack: React.js, .Net Core, Spring Boot
-🌱 My Intrests: Distributed Systems and Artificial Intelligence
-📫 Reach me at: kolarov01 (at) proton (dot) me
+🔨 My stack: React.js, .Net Core, Spring Boot <br />
+🌱 My Intrests: Distributed Systems and Artificial Intelligence <br />
+📫 Reach me at: kolarov01 (at) proton (dot) me <br />
 <!--
 - 🔭 I’m currently working on ...
 - 
